@@ -1,3 +1,4 @@
 git init => initialise a repo
 git add [file name] => add file name into staging area
 git commit -m "some msg" => add files from staging area to repo
+    - we can add "git commit . -m [msg]" if we want to commit everything
