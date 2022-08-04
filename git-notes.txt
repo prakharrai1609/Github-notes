@@ -8,4 +8,6 @@ git checkout :
 git branch :
     - git branch [new_branch_name] => make new branch 
     - git checkout -b [new_branch_name] => make a new branch and go into it
-    
+git merge :
+    - git merge [file-name] => merge the file name in parent branch
+git rebase [branch-name] => used to pull latest data from a branch-name
