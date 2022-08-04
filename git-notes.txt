@@ -16,3 +16,25 @@ git rebase [branch-name] => used to pull latest data from a branch-name
 
 .gitignore 
     - put files in this file which you don't want to be tracked
+
+-- 
+
+HOW TO DO OPEN SOURCE CONTRIBUTION?
+
+- Go on github
+- Fork a project where you want to contribute
+- Clone the project locally 
+    - How? 
+    - Go to the project github page
+    - Click on "code" (green button)
+    - Copy the URL 
+    - Make a folder/dir locally 
+    - In the bash terminal type : git clone [url]
+- Then make changes to the project
+- Push the changes on your github
+- Go on your "forked" project
+- Click on contribute
+- Make a pull req
+
+After that the project manager will see your proposed change and will merge 
+the pull req if deemed appropriate.
