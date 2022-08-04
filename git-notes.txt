@@ -11,3 +11,8 @@ git branch :
 git merge :
     - git merge [file-name] => merge the file name in parent branch
 git rebase [branch-name] => used to pull latest data from a branch-name
+
+--
+
+.gitignore 
+    - put files in this file which you don't want to be tracked
